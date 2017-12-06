@@ -18,6 +18,8 @@ Among 144 observations there are 19 numerical features, and 1 label named poi wh
 
 Each of the .ipynb files is a Python notebook representing a dataset on which the classifiers are fitClassifiers have been fit on 8 different datasets. Each dataset is different, (may have different missing value imputation methods, different feature lists etc)
 
+To view the code, download the .ipynb files and open using Jupyter Notebook.
+
 ### Refer to the *Enron.pdf* to understand how each dataset differs.
 Also, references have been added in Enron.pdf
 
