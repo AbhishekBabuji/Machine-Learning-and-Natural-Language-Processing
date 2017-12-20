@@ -24,3 +24,13 @@ To view the code, download the .ipynb files and open using Jupyter Notebook.
 Also, references have been added in Enron.pdf
 
 ### poi_id.py contains the final chosen algorithm and feature list. 
+
+
+## Project 2: Kaggle - Spooky Author Identification.
+
+Problem Statement: Given a corpora of excerpts from three writers namely, Edgar Allen Poe, HP Lovecraft and Mary Wollstonecraft Shelley; to learn from, build a good Machine Learning model that identifies patterns in the way the three authors write and make predictions on which of the three au- thors would have written an unseen excerpt/sentence.
+
+## Relevant files pertaining to Project 2:
+
+### Kaggle - Spooky Author Identification.pdf
+The pdf is an executive summary of all the steps in data mining employed to arrive at a solution to the given problem statement.
